@@ -1,4 +1,5 @@
 import React, { useState } from 'react'; // import React library
+import './App.css'; // import CSS file
 
 function App() {
   // State to manage the image URL or text description entered by the user
